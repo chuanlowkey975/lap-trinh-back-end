@@ -1,0 +1,14 @@
+E:\dnu\BACK_END\Baitap\LAB01.2\LAB01.2\LAB01.2\bin\Debug\net9.0\LAB01.2.exe
+E:\dnu\BACK_END\Baitap\LAB01.2\LAB01.2\LAB01.2\bin\Debug\net9.0\LAB01.2.deps.json
+E:\dnu\BACK_END\Baitap\LAB01.2\LAB01.2\LAB01.2\bin\Debug\net9.0\LAB01.2.runtimeconfig.json
+E:\dnu\BACK_END\Baitap\LAB01.2\LAB01.2\LAB01.2\bin\Debug\net9.0\LAB01.2.dll
+E:\dnu\BACK_END\Baitap\LAB01.2\LAB01.2\LAB01.2\bin\Debug\net9.0\LAB01.2.pdb
+E:\dnu\BACK_END\Baitap\LAB01.2\LAB01.2\LAB01.2\obj\Debug\net9.0\LAB01.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\dnu\BACK_END\Baitap\LAB01.2\LAB01.2\LAB01.2\obj\Debug\net9.0\LAB01.2.AssemblyInfoInputs.cache
+E:\dnu\BACK_END\Baitap\LAB01.2\LAB01.2\LAB01.2\obj\Debug\net9.0\LAB01.2.AssemblyInfo.cs
+E:\dnu\BACK_END\Baitap\LAB01.2\LAB01.2\LAB01.2\obj\Debug\net9.0\LAB01.2.csproj.CoreCompileInputs.cache
+E:\dnu\BACK_END\Baitap\LAB01.2\LAB01.2\LAB01.2\obj\Debug\net9.0\LAB01.2.dll
+E:\dnu\BACK_END\Baitap\LAB01.2\LAB01.2\LAB01.2\obj\Debug\net9.0\refint\LAB01.2.dll
+E:\dnu\BACK_END\Baitap\LAB01.2\LAB01.2\LAB01.2\obj\Debug\net9.0\LAB01.2.pdb
+E:\dnu\BACK_END\Baitap\LAB01.2\LAB01.2\LAB01.2\obj\Debug\net9.0\LAB01.2.genruntimeconfig.cache
+E:\dnu\BACK_END\Baitap\LAB01.2\LAB01.2\LAB01.2\obj\Debug\net9.0\ref\LAB01.2.dll
