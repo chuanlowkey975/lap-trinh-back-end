@@ -1,0 +1,23 @@
+﻿@model List<LAB03.Models.Product>
+
+<h2>Danh sách sản phẩm</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tên sản phẩm</th>
+            <th>Giá (VND)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price.ToString("N0")</td>
+            </tr>
+        }
+    </tbody>
+</table>
